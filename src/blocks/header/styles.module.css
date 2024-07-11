@@ -1,0 +1,11 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    box-shadow: 0px 1px 8px #000;
+}
+
+.git {
+    text-decoration: none;
+    color: unset;
+}

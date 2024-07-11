@@ -1,0 +1,25 @@
+.project-card {
+    box-shadow: #000 0px 0px 15px;
+    background-color: #f6f5f5;
+    padding-bottom: 10px;
+}
+
+.img {
+    display: block;
+    object-fit: cover;
+}
+
+.name {
+    text-align: center;
+}
+
+.desc {
+    margin: 0 5px;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 3;
+    line-clamp: 3;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    word-wrap: break-word;
+}

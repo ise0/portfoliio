@@ -1,0 +1,65 @@
+[
+    {
+        "preview": "",
+        "name": "createx",
+        "img": "/createx.bmp",
+        "links": [
+            "https://github.com/ise0/createx",
+            "http://createx.ise0.ru"
+        ],
+        "desc": "В этом проекте приоритетом для меня было создание структуры клиентской части веб-приложения в соответствии с лучшими практиками путем определения сущностей приложения и их зависимостей.",
+        "tools": [
+            "NextJS",
+            "NodeJS",
+            "Typescript",
+            "GraphQL",
+            "PostgreSQL",
+            "Docker"
+        ]
+    },
+    {
+        "preview": "",
+        "name": "tictactoe",
+        "img": "/tictactoe.bmp",
+        "links": [
+            "https://github.com/ise0/tictactoe",
+            "http://tictactoe.ise0.ru"
+        ],
+        "desc": "Тут я решил попрактиковаться с вебсокетами и создал простую онлайн игру.",
+        "tools": [
+            "NextJS",
+            "Golang",
+            "Typescript",
+            "PostgreSQL"
+        ]
+    },
+    {
+        "preview": "",
+        "name": "cat-energy",
+        "img": "/cat-energy.bmp",
+        "links": [
+            "https://github.com/ise0/cat-energy",
+            "http://cat-energy.ise0.ru",
+            "https://www.figma.com/file/Q17DEcvx25aabZ54pndE5O"
+        ],
+        "desc": "Верстка по макету адаптивного (mobile, tablet, desktop) 3 страничного сайта.",
+        "tools": [
+            "NextJS",
+            "Typescript"
+        ]
+    },
+    {
+        "preview": "",
+        "name": "musify",
+        "img": "/musify.bmp",
+        "links": [
+            "https://github.com/ise0/musify",
+            "http://musify.ise0.ru"
+        ],
+        "desc": "Реализация кастомизации и переключения темы веб приложения.",
+        "tools": [
+            "NextJS",
+            "Typescript"
+        ]
+    }
+]

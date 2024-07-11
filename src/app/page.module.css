@@ -1,0 +1,15 @@
+.page {
+  min-height: 100vh;
+}
+
+.header {
+  margin-bottom: 30px;
+}
+
+.projects {
+  list-style: none;
+  justify-content: center;
+  gap: 50px 50px;
+  display: grid;
+  grid-template-columns: 300px 300px;
+}
