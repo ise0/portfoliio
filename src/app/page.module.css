@@ -1,5 +1,6 @@
 .page {
   min-height: 100vh;
+  min-width: 720px;
 }
 
 .header {
@@ -8,6 +9,8 @@
 
 .projects {
   list-style: none;
+  padding: 0;
+  margin: 0 auto;
   justify-content: center;
   gap: 50px 50px;
   display: grid;
